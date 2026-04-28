@@ -1,0 +1,30 @@
+* {
+    padding: 0px;
+    margin: 5px;
+}
+
+body {
+    background:rgb(245, 231, 202);
+}
+.navbar {
+    background: rgb(170, 250, 250);
+    border: 1px solid rgb(47, 255, 245);
+    position: fixed;
+    width: auto;
+    height: 500px;
+    font: 13pt Garamond, serif;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+#welcome-image {
+    margin-left: 150px;
+}
+#p1 {
+    margin-left: 150px;
+    word-wrap: break-word;
+    width: 450px;
+    font: 13pt Garamond, serif;
+}
